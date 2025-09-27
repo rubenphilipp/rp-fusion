@@ -1,0 +1,18 @@
+# -*- eval: (flyspell-mode); eval: (ispell-change-dictionary "en") -*-
+#+CATEGORY: rp-fusion
+#+title: rp-fusion
+#+author: Ruben Philipp Gottschalk
+#+date: 2025-09-27
+#+LANGUAGE: en
+#+startup: overview
+
+* About
+
+This is a collection of scripts for Blackmagic Fusion.
+
+** Installation
+
+The scripts should be installed to this directory (on MacOS)
+=~/Library/Application Support/Blackmagic Design/Fusion/Scripts/=.  The
+directories in this repository try to reflect the category organization of the
+Fusion Scripts folder. 
