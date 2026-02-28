@@ -6,6 +6,14 @@
 #+LANGUAGE: en
 #+startup: overview
 
+* This Repository Has Moved!
+
+This repository has been moved to Codeberg in February 2026. 
+
+You'll find it here: https://codeberg.org/rubenphilipp/rp-fusion
+
+-----
+
 * About
 
 This is a collection of scripts for Blackmagic Fusion.
